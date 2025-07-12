@@ -8,7 +8,7 @@ Aplicación web fullstack que permite consultar si un vehículo puede circular e
 
 ## Arquitectura
 
-![Arquitectura](./docs/blueprint.png)
+![Arquitectura](/Diagrama Arquitectura lógica de la solución.drawio.png)
 
 - **Frontend:** Angular (formulario interactivo, validaciones, consumo de API REST)
 - **Backend:** Spring Boot (Java) - expone API REST, toda la lógica y validaciones
